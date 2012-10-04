@@ -11,5 +11,5 @@ Success[i]/trials
 
 Where, i is day of year, success[i] is number of successes at ith day and trials is number of trials conducted.
 
-This project gives output by plotting the graph. For plotting JFreeChart API is used which could be downloaded from
+This project gives output by plotting the graph. For graph plotting JFreeChart API is used which could be downloaded from
 http://sourceforge.net/projects/jfreechart/files/
