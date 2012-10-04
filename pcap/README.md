@@ -1,4 +1,4 @@
-Birthday Paradox
+PCAP file analyzer
 =============
 
 This small project does the analysis of pcap(packet capture) file using 
